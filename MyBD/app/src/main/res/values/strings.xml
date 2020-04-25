@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBD</string>
+    <string name="txt_code">Introduce code</string>
+    <string name="txt_name">Introdce name</string>
+    <string name="txt_price">Introduce price</string>
+    <string name="add_article">Add article</string>
+    <string name="find_article">Find article</string>
+    <string name="edit_article">Edit article</string>
+    <string name="delete_article">Delete article</string>
+</resources>

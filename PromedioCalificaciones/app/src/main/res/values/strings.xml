@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PromedioCalificaciones</string>
+    <string name="mathGrade">MATH GRADE</string>
+    <string name="phygrade">PHYSICAL GRADE</string>
+    <string name="engrade">ENGLISH GRADE</string>
+    <string name="promedio">CALCULATE</string>
+    <string name="status">ESTUDENT STATUS</string>
+
+</resources>

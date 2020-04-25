@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My calculator</string>
+    <string name="button">CALCULATE</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button0">0</string>
+    <string name="buttonEgu">=</string>
+    <string name="buttonSm">+</string>
+    <string name="buttonRs">-</string>
+    <string name="buttonMl">*</string>
+    <string name="buttonDi">/</string>
+    <string name="buttonPoi">.</string>
+    <string name="buttonCA">CA</string>
+    <string name="buttonDel">Del</string>
+    <string name="tv">0</string>
+    <string name="buttonPer">%</string>
+</resources>
